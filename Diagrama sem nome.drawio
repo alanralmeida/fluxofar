@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-07T22:24:04.746Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0 (Edition std-1)" etag="d6c7HNSjI_fzjNllMPs0" version="20.8.18" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-07T22:41:40.178Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0 (Edition std-1)" etag="fbS9RRr1iOq3mZGo4UQF" version="20.8.18" type="github">
   <diagram name="Página-1" id="FtbMUvhnpeURpWIJ7dNa">
-    <mxGraphModel dx="1393" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="663" dy="365" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -290,7 +290,7 @@
           <mxGeometry x="862" y="390" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sjPTzVE-lvq1mwDBGPnG-314" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/evil-icons-user-interface/64/mail-128.png;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=30;fillColor=none;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="848" y="510" width="40" height="40" as="geometry" />
+          <mxGeometry x="846" y="510" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
