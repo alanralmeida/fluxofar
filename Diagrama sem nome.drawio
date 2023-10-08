@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-08T19:14:22.800Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0 (Edition std-1)" etag="onhlF-RLj20bLnODdIR-" version="20.8.18" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-08T19:17:26.341Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0 (Edition std-1)" etag="KFLFtuvugwvMSVHlljgT" version="20.8.18" type="github">
   <diagram name="Página-1" id="FtbMUvhnpeURpWIJ7dNa">
-    <mxGraphModel dx="2392" dy="901" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="1162" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -272,10 +272,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sjPTzVE-lvq1mwDBGPnG-307" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/evil-icons-user-interface/64/mail-128.png;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=30;fillColor=none;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="781" y="510" width="40" height="40" as="geometry" />
+          <mxGeometry x="660" y="590" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sjPTzVE-lvq1mwDBGPnG-308" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/evil-icons-user-interface/64/mail-128.png;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=30;fillColor=none;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="906" y="510" width="40" height="40" as="geometry" />
+          <mxGeometry x="1020" y="590" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sjPTzVE-lvq1mwDBGPnG-310" value="Publish / Subscribe&lt;br&gt;(Event GD)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="640" y="560" width="80" height="30" as="geometry" />
@@ -287,7 +287,10 @@
           <mxGeometry x="862" y="390" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sjPTzVE-lvq1mwDBGPnG-314" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/evil-icons-user-interface/64/mail-128.png;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=30;fillColor=none;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="846" y="510" width="40" height="40" as="geometry" />
+          <mxGeometry x="846" y="537" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sjPTzVE-lvq1mwDBGPnG-315" value="Event bus &lt;br&gt;(Publish/Subscribe Channel)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=default;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="771.5" y="496" width="189" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
