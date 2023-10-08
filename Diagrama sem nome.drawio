@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-07T22:41:40.178Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0 (Edition std-1)" etag="fbS9RRr1iOq3mZGo4UQF" version="20.8.18" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-08T01:41:19.989Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0 (Edition std-1)" etag="S3CuHscy8mU7OEBvo3sE" version="20.8.18" type="github">
   <diagram name="Página-1" id="FtbMUvhnpeURpWIJ7dNa">
-    <mxGraphModel dx="663" dy="365" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="1402" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -282,9 +282,6 @@
         </mxCell>
         <mxCell id="sjPTzVE-lvq1mwDBGPnG-311" value="Publish / Subscribe" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="1000" y="560" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="sjPTzVE-lvq1mwDBGPnG-312" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="610" y="480" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sjPTzVE-lvq1mwDBGPnG-313" value="Publish / Subscribe" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="862" y="390" width="60" height="30" as="geometry" />
